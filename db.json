@@ -1,53 +1,81 @@
-[{
+{
+	"android": [{
 		"ver": "1.5",
 		"name": "Cupcake",
-		"api": "API level 3"
+		"api": "API level 3",
+		"image": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509240/cowboys_wjn2xo.png",
+		"image2": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509262/giants_qkxo1b.png"
 	}, {
 		"ver": "1.6",
 		"name": "Donut",
-		"api": "API level 4"
+		"api": "API level 4",
+		"image": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509298/steelers_qgxh1z.png",
+		"image2": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509297/raiders_dxjkti.png"
 	}, {
 		"ver": "2.0 - 2.1",
 		"name": "Eclair",
-		"api": "API level 5 - 7"
+		"api": "API level 5 - 7",
+		"image": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509240/cowboys_wjn2xo.png",
+		"image2": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509262/giants_qkxo1b.png"
 	}, {
 		"ver": "2.2",
 		"name": "Froyo",
-		"api": "API level 8"
+		"api": "API level 8",
+		"image": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509240/cowboys_wjn2xo.png",
+		"image2": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509262/giants_qkxo1b.png"
 	}, {
 		"ver": "2.3",
 		"name": "Gingerbread",
-		"api": "API level 9 - 10"
+		"api": "API level 9 - 10",
+		"image": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509240/cowboys_wjn2xo.png",
+		"image2": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509262/giants_qkxo1b.png"
 	}, {
 		"ver": "3.0 - 3.2",
 		"name": "Honeycomb",
-		"api": "API level 11 - 13"
+		"api": "API level 11 - 13",
+		"image": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509240/cowboys_wjn2xo.png",
+		"image2": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509262/giants_qkxo1b.png"
 	}, {
 		"ver": "4.0",
 		"name": "Ice Cream Sandwich",
-		"api": "API level 14 - 15"
+		"api": "API level 14 - 15",
+		"image": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509240/cowboys_wjn2xo.png",
+		"image2": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509262/giants_qkxo1b.png"
 	}, {
 		"ver": "4.1 - 4.3",
 		"name": "JellyBean",
-		"api": "API level 16 - 18"
+		"api": "API level 16 - 18",
+		"image": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509240/cowboys_wjn2xo.png",
+		"image2": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509262/giants_qkxo1b.png"
 	}, {
 		"ver": "4.4",
 		"name": "KitKat",
-		"api": "API level 19"
+		"api": "API level 19",
+		"image": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509240/cowboys_wjn2xo.png",
+		"image2": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509262/giants_qkxo1b.png"
 	}, {
 		"ver": "5.0 - 5.1",
 		"name": "Lollipop",
-		"api": "API level 21 - 22"
+		"api": "API level 21 - 22",
+		"image": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509240/cowboys_wjn2xo.png",
+		"image2": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509262/giants_qkxo1b.png"
 	}, {
 		"ver": "6.0",
 		"name": "Marshmallow",
-		"api": "API level 23"
+		"api": "API level 23",
+		"image": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509240/cowboys_wjn2xo.png",
+		"image2": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509262/giants_qkxo1b.png"
 	}, {
 		"ver": "7.0 - 7.1",
 		"name": "Nougat",
-		"api": "API level 24 - 25"
+		"api": "API level 24 - 25",
+		"image": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509240/cowboys_wjn2xo.png",
+		"image2": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509262/giants_qkxo1b.png"
 	}, {
 		"ver": "8.0",
 		"name": "Oreo",
-		"api": "API level 26"
-}]
+		"api": "API level 26",
+		"image": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509240/cowboys_wjn2xo.png",
+		"image2": "https://res.cloudinary.com/dv2fyyrmo/image/upload/v1503509262/giants_qkxo1b.png"
+	}]
+}
