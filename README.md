@@ -1,2 +1,2 @@
 # AndroidAPIs
-static API for testing
+static API for AndroidAPILevels repository
