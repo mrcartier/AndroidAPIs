@@ -1,2 +1,2 @@
 # AndroidAPIs
-json AndroidAPIs use for testing
+static API for testing
