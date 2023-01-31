@@ -69,5 +69,30 @@
 		"name": "Pie",
 		"api": "API level 28",
 		"image": "some_url"
+	}, {
+		"ver": "10",
+		"name": "Android 10",
+		"api": "API level 29",
+		"image": "some_url"
+	}, {
+		"ver": "11",
+		"name": "Android 11",
+		"api": "API level 30",
+		"image": "some_url"
+	}, {
+		"ver": "12",
+		"name": "Andorid 12",
+		"api": "API level 31",
+		"image": "some_url"
+	}, {
+		"ver": "12L",
+		"name": "Andorid 12",
+		"api": "API level 32",
+		"image": "some_url"
+	}, {
+		"ver": "13",
+		"name": "Andorid 13",
+		"api": "API level 32",
+		"image": "some_url"
 	}]
 }
